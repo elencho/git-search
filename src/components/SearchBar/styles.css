@@ -1,0 +1,13 @@
+.searchBar {
+  width: 50vw;
+  max-width: 350px;
+  min-width: 250px;
+  border: none;
+  padding: 10px;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+input:focus {
+  outline: none;
+}
