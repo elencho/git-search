@@ -1,8 +1,7 @@
 .background {
-  background-color: #161B22;
-  min-height: 100vh;
+  background-color: #161b22;
+  min-height: 150vh;
   display: flex;
-  
+
   justify-content: center;
-  
 }
